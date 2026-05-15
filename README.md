@@ -31,7 +31,8 @@ The dashboard includes insights such as:
 
 Once loaded, it should look something like this:
 
-<img width="1669" height="937" alt="image" src="https://github.com/user-attachments/assets/55d44345-f359-429e-9279-4680e029c78c" />
+<img width="1740" height="973" alt="image" src="https://github.com/user-attachments/assets/650aed2c-66c5-42a6-a28f-cb4cf5a81514" />
+
 
 
 
