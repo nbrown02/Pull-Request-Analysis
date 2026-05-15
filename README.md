@@ -1,2 +1,36 @@
-# Pull-Request-Analysis
+# Pull Request (PR) Analysis
 A free Power BI template that analyses pull requests (PRs) within a single / multiple GitHub repo(s).
+
+# Pull Request (PR) Analysis
+### What is it?
+This dashboard is designed for engineering and product teams using GitHub who want greater visibility into how Pull Requests move through their delivery process. Built around flow-based engineering metrics, the dashboard helps teams identify bottlenecks, improve collaboration, and make more informed delivery decisions using real PR data rather than relying on simplistic activity measures.
+
+The dashboard includes insights such as:
+- PR Lead Time (creation to merge)
+- PR Throughput trends over time
+- Time to First Review
+- Ageing and long-running open PRs
+- Distribution of PR authoring and approvals across the team
+
+### Prerequisites
+* [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
+* [Go to this page](https://github.com/settings/tokens) and click on 'Generate new token (classic)' then save the token (e.g. copy/paste into Notepad)
+* Download the [template file] ():
+* Then you're good to get started!
+* Please note: I don’t store, use or have access to any of your data/information. It’s all within your machines/network :)
+
+### Connectivity
+* Open the .pbit file in Power BI Desktop
+* Add your GitHub token
+* Add your GitHub organisation
+* Add your GitHub repo(s) you want to analyse (separate via a comma)
+* It should then look something like this:
+  
+[ADD IMAGE]
+
+* Hit 'Load' 
+* You will be prompted for a login, choose Anonymous (as your token will be within the queries)
+* Then hit 'Connect' and wait for the data and charts to load!
+
+Once loaded, it should look something like this:
+
