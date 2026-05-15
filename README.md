@@ -1,7 +1,4 @@
 # Pull Request (PR) Analysis
-A free Power BI template that analyses pull requests (PRs) within a single / multiple GitHub repo(s).
-
-# Pull Request (PR) Analysis
 ### What is it?
 This dashboard is designed for engineering and product teams using GitHub who want greater visibility into how Pull Requests move through their delivery process. Built around flow-based engineering metrics, the dashboard helps teams identify bottlenecks, improve collaboration, and make more informed delivery decisions using real PR data rather than relying on simplistic activity measures.
 
