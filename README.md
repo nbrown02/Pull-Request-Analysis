@@ -20,7 +20,7 @@ The dashboard includes insights such as:
 * Open the .pbit file in Power BI Desktop
 * Add your GitHub token
 * Add your GitHub organisation
-* Add your GitHub repo(s) you want to analyse (separate via a comma)
+* Add your GitHub repo(s) you want to analyse (for multiple repos please separate via a comma)
 * It should then look something like this:
   
 [ADD IMAGE]
