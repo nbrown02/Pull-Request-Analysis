@@ -23,14 +23,17 @@ The dashboard includes insights such as:
 ### Connectivity
 * Open the .pbit file in Power BI Desktop
 * Add your GitHub token
-* Add your GitHub organisation
+* Add your GitHub organisation/username
 * Add your GitHub repo(s) you want to analyse (for multiple repos please separate via a comma)
 * It should then look something like this:
   
-[ADD IMAGE]
+<img width="1126" height="619" alt="image" src="https://github.com/user-attachments/assets/8644cfdb-9edb-45a7-b468-4eab5f674110" />
 
 * Hit 'Load' 
 * You will be prompted for a login, choose Anonymous (as your token will be within the queries)
+
+<img width="536" height="217" alt="image" src="https://github.com/user-attachments/assets/694403f9-f10c-42dc-a012-3f34846c9e01" />
+
 * Then hit 'Connect' and wait for the data and charts to load!
 
 Once loaded, it should look something like this:
