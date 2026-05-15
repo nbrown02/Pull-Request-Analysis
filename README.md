@@ -12,7 +12,7 @@ The dashboard includes insights such as:
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * [Go to this page](https://github.com/settings/tokens) and click on 'Generate new token (classic)' then save the token (e.g. copy/paste into Notepad)
-* Download the [template file](https://github.com/nbrown02/Pull-Request-Analysis/raw/refs/heads/main/Pull%20Request%20Analysis.pbit):
+* Download the [template file](https://github.com/nbrown02/Pull-Request-Analysis/raw/refs/heads/main/Pull%20Request%20Analysis.pbit)
 * Then you're good to get started!
 * Please note: I don’t store, use or have access to any of your data/information. It’s all within your machines/network :)
 
